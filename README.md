@@ -1,4 +1,4 @@
-## At a Glance!
+## At a Glance
 <a href="https://github.com/ariannalillie/ariannalillie">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=ariannalillie&count_private=true&show_icons=true&theme=vue-dark&custom_title=Speeds%20and%20Feeds"/>
 </a>
