@@ -5,4 +5,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariannalillie&theme=gotham)](https://git.io/streak-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannalillie&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannalillie&theme=blue-green) -->
